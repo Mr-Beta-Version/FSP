@@ -1,2 +1,2 @@
-# FSP
-Fast Setup
+# QSP
+Quick Setup
