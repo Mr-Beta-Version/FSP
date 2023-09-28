@@ -8,6 +8,11 @@ https://f-droid.org/repo/com.termux_118.apk
 
 https://github.com/Mr-Beta-Version/VIP-App/raw/main/QuickEdit.apk
 
+# Auto Clicker
+
+https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker
+
+
 # COMMAND
 ```
 termux-setup-storage
