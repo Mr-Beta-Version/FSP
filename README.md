@@ -1,7 +1,10 @@
 # QSP
 Quick Setup
+# Termux Link 
 
+https://f-droid.org/repo/com.termux_118.apk
 
+# COMMAND
 ```
 termux-setup-storage
 
