@@ -1,8 +1,10 @@
 # QSP
 Quick Setup
-# Termux Link 
+# Termux & QuickEdit Link 
 
 https://f-droid.org/repo/com.termux_118.apk
+
+https://github.com/Mr-Beta-Version/VIP-App/raw/main/QuickEdit.apk
 
 # COMMAND
 ```
