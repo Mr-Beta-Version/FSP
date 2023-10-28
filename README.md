@@ -4,6 +4,10 @@ Quick Setup
 
 https://f-droid.org/repo/com.termux_118.apk
 
+# Termux Mod Link (Hexa)
+
+https://www.mediafire.com/file/ad6710nkz84w9n9/Hexa_Team.apk/file
+
 # QuickEdit Link
 
 https://github.com/Mr-Beta-Version/VIP-App/raw/main/QuickEdit.apk
