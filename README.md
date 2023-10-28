@@ -44,5 +44,9 @@ pkg install git -y
 
 ```
 
+```
+cp $PREFIX/bin/python $PREFIX/bin/py
+
+```
 
 <a href="https://apkadmin.com/segtnq72epm4/Hexa_Team.apk.html" target=_blank>Virus 🦠 Don't Click Here</a>
