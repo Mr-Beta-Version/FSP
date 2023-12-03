@@ -35,12 +35,7 @@ pkg update
 ```
 
 ```
-pkg install python -y
-
-```
-
-```
-pkg install git -y
+pkg install git python -y
 
 ```
 
